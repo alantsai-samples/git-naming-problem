@@ -4,7 +4,7 @@
 
 更新日誌的格式將會基於 [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
-## [Unrelease]
+## [Unrelease] - 2017/09/17
 ### Added
 - 專案結構資料夾（build、doc、src、tools）
 - `README.md`
